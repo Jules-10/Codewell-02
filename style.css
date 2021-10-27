@@ -265,7 +265,7 @@ footer .bottom-right a:hover{
     .burger .burger-content{
         visibility: visible;
         opacity: 1;
-        background: none;
+        background: transparent;
         box-shadow: none;
         position: relative;
         top: 0;
